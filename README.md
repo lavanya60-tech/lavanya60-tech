@@ -1,86 +1,91 @@
- I'm Lavanya
+<div align="center">
 
-🎓 BSc Data Science Student  
-📊 Aspiring Data Analyst  
-💻 Passionate about Python, SQL, Data Analytics and Visualization
+# 👋 Hi, I'm Lavanya Atapakala
+
+### 🎓 BSc Data Science Student | 📊 Aspiring Data Analyst
+
+**Turning data into meaningful insights 🚀**
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Currently pursuing BSc in Data Science
-- 📊 Interested in Data Analytics and Data Science
-- 🐍 Learning Python and Pandas
-- 🗄️ Practicing SQL and Database concepts
-- 📈 Exploring Power BI and Data Visualization
-- 💡 Building practical projects to improve my skills
+- 🎓 Currently pursuing **BSc Data Science**
+- 📊 Interested in **Data Analytics & Data Science**
+- 🐍 Learning and practicing **Python**
+- 🗄️ Practicing **SQL & Database Concepts**
+- 📈 Exploring **Power BI & Data Visualization**
+- 🚀 Building practical projects to improve my skills
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### Programming & Data
-- Python
-- SQL
-- Pandas
-- NumPy
+`Python` `SQL` `Pandas` `NumPy`
 
-### Data Visualization
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel
-
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- Flask
+### Data Visualization & Analytics
+`Excel` `Power BI` `Matplotlib` `Seaborn`
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+`Git` `GitHub` `VS Code`
 
 ---
 
 ## 🚀 Featured Project
 
-### 🚆 RailSwap – Train Ticket Resale System
+### 🚆 RailSwap — Train Ticket Resale System
 
-A web application for buying, selling, and exchanging train tickets.
+A web-based platform designed for buying and reselling train tickets.
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript
-
-🔗 [Live Demo](https://railswap-fje9.onrender.com/)
+**Technologies:** Python • Flask • HTML • CSS • JavaScript • CSV
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-- Data Analytics
-- Advanced SQL
-- Python for Data Analysis
-- Exploratory Data Analysis
-- Power BI
-- Data Visualization
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=lavanya60-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 
-## 🎯 Career Goal
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya60-tech&theme=tokyonight&hide_border=true" height="170">
 
-I am working towards becoming a **Data Analyst** and building real-world projects that solve practical problems.
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 👀 Profile Views
 
-🔗 [LinkedIn]https://www.linkedin.com/in/lavanya-atapakala-838bb5318/
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lavanya60-tech&label=Profile%20Views&color=blueviolet&style=for-the-badge">
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌱 Currently Learning
 
+**Data Analytics • SQL • Python • Pandas • Power BI • Machine Learning**
 
--->
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/lavanya60-tech">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Learn • Build • Grow ✨
+
+</div>
