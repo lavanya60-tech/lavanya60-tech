@@ -33,6 +33,27 @@
 `Git` `GitHub` `VS Code`
 
 ---
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lavanya60-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya60-tech&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lavanya60-tech&label=Profile%20Views&style=for-the-badge&color=blueviolet">
+
+</div>
 
 ## 🚀 Featured Project
 
