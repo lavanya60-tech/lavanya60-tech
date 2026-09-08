@@ -1,3 +1,4 @@
+![Lavanya Atapakala - Data Science](./OIP.webp)
 <div align="center">
 
 # 👋 Hi, I'm Lavanya Atapakala
